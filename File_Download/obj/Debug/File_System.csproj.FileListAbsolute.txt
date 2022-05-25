@@ -1,0 +1,293 @@
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.exe
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\Lacty_SMD.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\Lacty_HRIS.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.exe
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+C:\Users\HONG VAN\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.dll.licenses
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.dll
+C:\Users\Administrator\Desktop\DATA_SOFT\Manager_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.exe
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\Lacty_MS.dll
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\zxing.dll
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\bin\Debug\File_System.exe.config
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+E:\Destop\Desktop\DATA_SOFT\MS_Decide\File_System\File_Download\File_Download\obj\Debug\File_System.exe
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\DataUser.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\EPPlus.dll
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\DataUser.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\DataGroup.pdb
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\bin\Debug\File_System.dll.config
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.dll.licenses
+C:\Users\THUONGTIN\Desktop\phanmemKey\File_System\File_Download\File_Download\obj\Debug\File_System.dll
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\EPPlus.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.pdb
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll.config
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.Core.dll
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.pdb
+D:\C#\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.pdb
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.dll.licenses
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.dll
+D:\C#\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+G:\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.Core.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\EPPlus.dll
+G:\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.exe.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.exe.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.exe.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.dll.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll.config
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csprojAssemblyReference.cache
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.cache
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.CoreCompileInputs.cache
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.CopyComplete
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+G:\fix\File_System\File_Download\File_Download\bin\Debug\File_System.exe.config
+G:\fix\File_System\File_Download\File_Download\bin\Debug\File_System.exe
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+G:\fix\File_System\File_Download\File_Download\obj\Debug\File_System.exe
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\File_System.exe.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\File_System.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Bunifu.Core.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\EPPlus.dll
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\GUI_V_2.exe.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Control_Keys.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Key.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Menu_Key.exe.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Data_Person_Send_Get_Key.exe.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataUser.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\DataGroup.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\File_System.dll.config
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csprojAssemblyReference.cache
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.cache
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.csproj.CopyComplete
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.pdb
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\File_System.exe
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.exe
+F:\fix2\fix\File_System\File_Download\File_Download\bin\Debug\Tulpep.NotificationWindow.dll
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.Form1.resources
+F:\fix2\fix\File_System\File_Download\File_Download\obj\Debug\File_System.Form2.resources
+C:\Users\Trang\Desktop\File_Download\File_Download\bin\Debug\File_System.exe.config
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.exe
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.pdb
+C:\Users\Trang\Desktop\File_Download\File_Download\bin\Debug\File_System.exe
+C:\Users\Trang\Desktop\File_Download\File_Download\bin\Debug\File_System.pdb
+C:\Users\Trang\Desktop\File_Download\File_Download\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.Form1.resources
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.Form2.resources
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.Cache
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+C:\Users\Trang\Desktop\File_Download\File_Download\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.csproj.AssemblyReference.cache
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.ucFile_System.resources
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.Properties.Resources.resources
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.csproj.GenerateResource.cache
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.exe.licenses
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.csproj.CoreCompileInputs.cache
+E:\DataGit\File_Download\File_Download\bin\Debug\File_System.exe.config
+E:\DataGit\File_Download\File_Download\bin\Debug\File_System.exe
+E:\DataGit\File_Download\File_Download\bin\Debug\File_System.pdb
+E:\DataGit\File_Download\File_Download\bin\Debug\EncryptionQRCode.dll
+E:\DataGit\File_Download\File_Download\bin\Debug\Tulpep.NotificationWindow.dll
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.csproj.CopyComplete
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.exe
+E:\DataGit\File_Download\File_Download\obj\Debug\File_System.pdb
